@@ -21,7 +21,7 @@ source activate mxnet_p36
 Download the source code and model artifacts
 
 ```
-git clone https://github.com/angelarw/parallelize-ml-inference.git
+git clone https://github.com/aws-samples/parallelize-ml-inference.git
 cd parallelize-ml-inference/resources/model/
 wget https://angelaw-workshop.s3.amazonaws.com/ml/od/model/model.tar.gz
 tar -xvzf model.tar.gz
