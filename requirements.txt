@@ -1,0 +1,7 @@
+# change the mxnet version depending on CUDA version or CPU only
+# mxnet-cu101
+mxnet
+opencv-python
+pandas
+# If running in greengrass
+# greengrasssdk
